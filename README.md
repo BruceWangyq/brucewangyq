@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <br>
 <hr>
 
-<h2 align="left">🖥️ Languages and Tools:</h2>
+<h3 align="left">🖥️ Languages and Tools:</h3>
 <p align="left">  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
 <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a>
@@ -36,16 +36,16 @@ Here are some ideas to get you started:
 <br>
 <hr/>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=brucewangyq&show_icons=true&locale=en&layout=compact" alt="brucewangyq" width="60%"/></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=brucewangyq&show_icons=true&locale=en" alt="brucewangyq" width="60%" </p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=brucewangyq&show_icons=true&locale=en&layout=compact" alt="brucewangyq" width="30%"/></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=brucewangyq&show_icons=true&locale=en" alt="brucewangyq" width="30%" </p>
 
 <br>
 <hr/>
-<h3 align="left">🤝Lets Connect:</h3>
+<h3 align="left">🤝 Lets Connect:</h3>
 <p align="left">
 
-<a href="https://twitter.com/brucewangdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="amaid050" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/brucewangdev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhiraj-maid" height="30" width="40" /></a>
+<a href="https://twitter.com/brucewangdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="brucewangyq" height="20" width="20" /></a>
+<a href="https://www.linkedin.com/in/brucewangdev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="brucewangyq" height="20" width="20" /></a>
 
 </p>
 
