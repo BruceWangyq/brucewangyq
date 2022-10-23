@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 <h4 align="left" color="#6beb34">👋Hi, I'm Bruce.
-        I am a programming enthusiast based in Canada, who loves Web-Development, Web3, and Dev Rel. <br><br>Currently, building my little project <a href="https://promiseland.app">PromiseLand</a>, a Web3 Instagram but also NFT marketplace.<br><br> Previously, I worked at <a href="https://cyberconnect.me/">CyberConnect</a> as Dev Rel to create tutorials, docs, hackathons to bring more devs to build the Web3 social graph portocol.<br><br>  <a href="https://www.brucewangdev.com" target="_blank" rel="noreferrer">My personal website</a></h4>
+        I am a programming enthusiast based in Canada, who loves Web-Development, Web3, and Dev Rel. <br><br>  <a href="https://www.brucewangdev.com" target="_blank" rel="noreferrer">My personal website</a></h4>
 <br>
 <hr>
 
