@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 <h4 align="left" color="#6beb34">👋Hi, I'm Bruce.
-        I am a programming enthusiast based in Canada, who loves Web-Development, Web3, and Dev Rel. <br><br>  <a href="https://www.brucewangdev.com" target="_blank" rel="noreferrer">My personal website</a></h4>
+        I am a programming enthusiast based in Canada, who loves Web-Development, Web3, and Dev Rel. <br><br>  <a href="https://brucewangdev.com" target="_blank" rel="noreferrer">My personal website</a></h4>
 <br>
 <hr>
 
